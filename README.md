@@ -1,6 +1,3 @@
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortRound&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=ShirtCrewNeck&clotheColor=Black&eyeType=Default&eyebrowType=UpDown&mouthType=Default&skinColor=Light'
-/>
-
 ## Sobre mi 
 
 Desarrollador con pasado backend, presente frontend y cuyo futuro esta por verse. 
