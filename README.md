@@ -15,8 +15,9 @@ Discípulo de las palabras YAGNI, DRY, KISS Y SOLID (LA I y la D todavia estoy i
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
+![React](https://img.shields.io/badge/-React-3178C6?style=plastic&logo=React)
 
 - Backend
 
@@ -34,6 +35,10 @@ Discípulo de las palabras YAGNI, DRY, KISS Y SOLID (LA I y la D todavia estoy i
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Subversion](https://img.shields.io/badge/-Svn-93B0DA?style=plastic&logo=subversion&logoColor=white)
 
+- Testing
+
+![Jest](https://img.shields.io/badge/-Jest-FFFFFF?style=plastic&logo=jest&logoColor=red)
+![Cypress](https://img.shields.io/badge/-Cypress-339933?style=plastic&logo=cypress&logoColor=white)
 
 
 ## Hobbies
